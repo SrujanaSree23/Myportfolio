@@ -15,7 +15,7 @@ export const HeroSection = () => {
             </span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1"> {" "} Srujana Sree </span></h1>
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I’m a prefinal-year B.S. CSE student passionate about building modern, intuitive web applications, exploring AI-powered solutions, and creating meaningful digital experiences.
+            I’m a prefinal-year B.E. CSE student passionate about building modern, intuitive web applications, exploring AI-powered solutions, and creating meaningful digital experiences.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
