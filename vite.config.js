@@ -12,5 +12,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: process.env.VIT_BASE_PATH ||"/Myportfolio",
+  
 });
